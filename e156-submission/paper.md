@@ -1,6 +1,6 @@
 Mahmood Ahmad
 Tahir Heart Institute
-mahmood.ahmad2@nhs.net
+author@example.com
 
 FATIHA: A Multilingual Evidence Synthesis Course Platform with 26 Interactive Modules
 
@@ -12,7 +12,7 @@ Type: methods
 Primary estimand: Mean difference
 App: FATIHA Evidence Synthesis Course Platform
 Data: 26 English modules, 11 translation languages, 324 HTML files
-Code: C:\Projects\Fatiha-course-github-v2
+Code: https://github.com/mahmood726-cyber/fatiha-course-github-v2
 Version: 2.0
 Validation: DRAFT
 
@@ -24,4 +24,4 @@ References
 
 AI Disclosure
 
-This work represents a compiler-generated evidence micro-publication (i.e., a structured, pipeline-based synthesis output). AI is used as a constrained synthesis engine operating on structured inputs and predefined rules, rather than as an autonomous author. Deterministic components of the pipeline, together with versioned, reproducible evidence capsules (TruthCert), are designed to support transparent and auditable outputs. All results and text were reviewed and verified by the author, who takes full responsibility for the content. The workflow operationalises key transparency and reporting principles consistent with CONSORT-AI/SPIRIT-AI, including explicit input specification, predefined schemas, logged human-AI interaction, and reproducible outputs.
+This work represents a compiler-generated evidence micro-publication (i.e., a structured, pipeline-based synthesis output). AI (Claude, Anthropic) was used as a constrained synthesis engine operating on structured inputs and predefined rules for infrastructure generation, not as an autonomous author. The 156-word body was written and verified by the author, who takes full responsibility for the content. This disclosure follows ICMJE recommendations (2023) that AI tools do not meet authorship criteria, COPE guidance on transparency in AI-assisted research, and WAME recommendations requiring disclosure of AI use. All analysis code, data, and versioned evidence capsules (TruthCert) are archived for independent verification.
